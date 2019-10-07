@@ -1,1 +1,3 @@
 this is the first code file
+
+i am a java developerand i am developinga gaming project.
